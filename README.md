@@ -35,7 +35,7 @@ Fetches live weather for any city from the OpenWeather API and prints current co
 ```bash
 pip install requests
 # add your OpenWeather API key, then:
-python code
+python weather_app.py
 ```
 
 ### 👤 Author
